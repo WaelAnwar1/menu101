@@ -1,0 +1,19 @@
+
+Note ::
+Running (Active) version is [index.html], [style.css]
+
+file : index.html , style.css
+https://www.youtube.com/watch?v=OTjmnF27ADk&list=PLlcH2OeQ468b9Ir42H2lHXnJorGDiNG6Z&index=28
+
+supporting vid..
+https://www.youtube.com/watch?v=hv0rNxr1XXk&t=22s
+
+responsive vid..
+https://www.youtube.com/watch?v=6cODl15UhnQ
+
+
+###############################
+
+Card Slider
+$$$$$$$$$$$
+https://www.youtube.com/watch?v=li-ylRo7VEc
